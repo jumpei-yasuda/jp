@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "自己紹介"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-自己紹介
-======
 大阪大学博士1年の安田順平です．
 低次元トポロジー，その中でも特に曲面絡み目理論を専攻しています．
 
