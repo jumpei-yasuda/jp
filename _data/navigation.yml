@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "論文"
     url: /publications/
 
-  - title: "Talks"
+  - title: "講演"
     url: /talks/
 
   # - title: "Teaching"
@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "日本語"
-    url: https://jumpei-yasuda.github.io/jp/
+  - title: "English"
+    url: https://jumpei-yasuda.github.io/en/
 
   - title: "Guide"
     url: /markdown/
