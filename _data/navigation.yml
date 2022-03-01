@@ -13,7 +13,7 @@ main:
     url: /cv/
 
   - title: "日本語"
-    url: /japanese/
+    url: https://jumpei-yasuda.github.io/jp/
 
   - title: "Guide"
     url: /markdown/
