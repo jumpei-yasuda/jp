@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jumpei YASUDA"
+  name             : "安田順平"
   avatar           : "profile.png"
-  bio              : "Doctoral course at Osaka univ."
-  location         : "Osaka, Japan"
-  employer         : "JSPS Fellow?(DC1)"
+  bio              : "大阪大学博士1年"
+  location         : "大阪"
+  employer         : "学振DC1"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
