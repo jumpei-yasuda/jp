@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "論文"
-    url: /publications/
+    url: /papers/
 
   - title: "講演"
     url: /talks/
