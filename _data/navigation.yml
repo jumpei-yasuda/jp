@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "English"
-    url: https://jumpei-yasuda.github.io/en/
+  # - title: "English"
+  #   url: https://jumpei-yasuda.github.io/en/
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
