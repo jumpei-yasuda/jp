@@ -5,9 +5,9 @@ permalink: /papers/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
@@ -18,5 +18,5 @@ author_profile: true
 
 # Preprints
 {% for post in site.preprints reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-preprints.html %}
 {% endfor %}
