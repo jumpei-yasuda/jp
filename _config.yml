@@ -85,8 +85,8 @@ author:
   bio              : "大阪大学理学研究科数学専攻博士1年"
   location         : "大阪, 日本"
   employer         : "日本学術振興会特別研究員(DC1)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
