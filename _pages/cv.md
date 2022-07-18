@@ -15,20 +15,19 @@ redirect_from:
 
 学歴
 ======
+* 2022年4月～現在 : 博士後期課程
+  * 所属 : 大阪大学大学院理学研究科数学専攻
+  * 指導教員 : 鎌田聖一 教授
 * 2020年4月～2022年3月 : 博士前期課程
   * 所属 : 大阪大学大学院理学研究科数学専攻
   * 指導教員 : 鎌田聖一 教授
 * 2016年4月～2020年3月 : 理学部数学科
   * 所属 : 岡山大学理学部数学科
   * 指導教員 : 石川佳弘 助教
-<!--
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 受賞
 ======
-* 2021年7月 : Award for Presentation Excellence
-  * The 14th Graduate Student Workshop on Mathematics at Kyungpook National University.
-  * https://sites.google.com/view/syyang-2021-tapu-kook-and-gsw/home
+* 2021年7月 : Award for Presentation Excellence, [The 14th Graduate Student Workshop on Mathematics at Kyungpook National University.](https://sites.google.com/view/syyang-2021-tapu-kook-and-gsw/home)
 
 
 <!--
