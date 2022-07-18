@@ -9,16 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+職歴
 ======
-* B.S. in Okayama, Okayama University, 2020
-* M.S. in Osaka, Osaka University, 2022
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* 2022年4月～現在 : 日本学術振興会特別研究員(DC1)
 
+学歴
+======
+* 2020年4月～2022年3月 : 博士前期課程
+  * 所属 : 大阪大学大学院理学研究科数学専攻
+  * 指導教員 : 鎌田聖一 教授
+* 2016年4月～2020年3月 : 理学部数学科
+  * 所属 : 岡山大学理学部数学科
+  * 指導教員 : 石川佳弘 助教
+<!--
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
+受賞
+======
+* 2021年7月 : Award for Presentation Excellence
+  * The 14th Graduate Student Workshop on Mathematics at Kyungpook National University.
+  * https://sites.google.com/view/syyang-2021-tapu-kook-and-gsw/home
+
+
+<!--
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2020: Teaching Assistant
+  * Osaka University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -57,3 +74,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
