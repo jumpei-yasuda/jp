@@ -18,5 +18,5 @@ author_profile: true
 
 # Preprints
 {% for post in site.preprints reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-preprints.html %}
 {% endfor %}
