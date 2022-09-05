@@ -30,6 +30,10 @@ redirect_from:
 * 2021年7月 : Award for Presentation Excellence
   * [The 14th Graduate Student Workshop on Mathematics](https://sites.google.com/view/syyang-2021-tapu-kook-and-gsw/home), Kyungpook National University.
 
+世話人
+======
+* 2022年8月 : [第58回トポロジー新人セミナー](https://tfs2022.wixsite.com/tfs2022page), 掛川市.
+
 
 <!--
 Work experience
