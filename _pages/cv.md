@@ -29,6 +29,8 @@ redirect_from:
 ======
 * 2021年7月 : Award for Presentation Excellence
   * [The 14th Graduate Student Workshop on Mathematics](https://sites.google.com/view/syyang-2021-tapu-kook-and-gsw/home), Kyungpook National University.
+* 2023年7月 : Award for Young Mathematicians
+  * [The 16th Graduate Student Workshop on Mathematics](https://sites.google.com/view/2023-tapu-kook/home), Busan City Hotel.
 
 世話人
 ======
